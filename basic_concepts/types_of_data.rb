@@ -17,3 +17,12 @@ string.class
 array = [1,3,5,"string"]
 
 symbol = :ruby_symbol
+
+symbol.object_id
+
+hash_curse = {
+    couse: 'ruby',
+    linguege: 'ruby',
+}
+hash_curse[:linguege]
+
