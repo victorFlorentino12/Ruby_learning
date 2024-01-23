@@ -4,4 +4,7 @@ class User
         @@user_count += 1
         puts @@user_count
     end
+    def hello
+        puts "olá #{@@user_count}"
+    end
 end 
